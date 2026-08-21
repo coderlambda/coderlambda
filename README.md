@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm coderlambda
 
-<!--
-**coderlambda/coderlambda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build developer tools focused on reliable remote workflows.
 
-Here are some ideas to get you started:
+## Buoy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Buoy](https://github.com/coderlambda/buoy-tmux) is a stable, cross-platform desktop client for
+tmux. It keeps local and remote workspaces easy to find, operate, and reconnect.
+
+- Native tabs for tmux windows
+- Reliable SSH reconnection
+- Import existing tmux sessions
+- Codex and Claude Code notifications
+- Session history and recovery
+- macOS, Windows, and Linux
+
+[Download the latest release](https://github.com/coderlambda/buoy-tmux/releases/latest)
