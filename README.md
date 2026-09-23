@@ -14,4 +14,5 @@ tmux. It keeps local and remote workspaces easy to find, operate, and reconnect.
 - Session history and recovery
 - macOS, Windows, and Linux
 
+[Project website](https://coderlambda.github.io/buoy-tmux/) ·
 [Download the latest release](https://github.com/coderlambda/buoy-tmux/releases/latest)
